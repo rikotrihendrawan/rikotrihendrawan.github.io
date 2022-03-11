@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/shoppingcart/static/css/main.4631b30c.chunk.css",
+    "main.js": "/portfolio/shoppingcart/static/js/main.9fa99fd3.chunk.js",
+    "main.js.map": "/portfolio/shoppingcart/static/js/main.9fa99fd3.chunk.js.map",
+    "runtime-main.js": "/portfolio/shoppingcart/static/js/runtime-main.64dad655.js",
+    "runtime-main.js.map": "/portfolio/shoppingcart/static/js/runtime-main.64dad655.js.map",
+    "static/js/2.f32e87c6.chunk.js": "/portfolio/shoppingcart/static/js/2.f32e87c6.chunk.js",
+    "static/js/2.f32e87c6.chunk.js.map": "/portfolio/shoppingcart/static/js/2.f32e87c6.chunk.js.map",
+    "index.html": "/portfolio/shoppingcart/index.html",
+    "static/css/main.4631b30c.chunk.css.map": "/portfolio/shoppingcart/static/css/main.4631b30c.chunk.css.map",
+    "static/js/2.f32e87c6.chunk.js.LICENSE.txt": "/portfolio/shoppingcart/static/js/2.f32e87c6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/shoppingcart/static/media/shopping_school.29c9d820.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64dad655.js",
+    "static/js/2.f32e87c6.chunk.js",
+    "static/css/main.4631b30c.chunk.css",
+    "static/js/main.9fa99fd3.chunk.js"
+  ]
+}
