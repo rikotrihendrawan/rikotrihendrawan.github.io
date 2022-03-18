@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/mern-places/static/css/main.d6b78445.chunk.css",
+    "main.css": "/portfolio/mern-places/static/css/main.ffcc154c.chunk.css",
     "main.js": "/portfolio/mern-places/static/js/main.7287e418.chunk.js",
     "main.js.map": "/portfolio/mern-places/static/js/main.7287e418.chunk.js.map",
     "runtime-main.js": "/portfolio/mern-places/static/js/runtime-main.b0dfa6c9.js",
@@ -22,19 +22,19 @@
     "static/js/7.83acc776.chunk.js": "/portfolio/mern-places/static/js/7.83acc776.chunk.js",
     "static/js/7.83acc776.chunk.js.map": "/portfolio/mern-places/static/js/7.83acc776.chunk.js.map",
     "index.html": "/portfolio/mern-places/index.html",
-    "precache-manifest.3f26dfdaa38376cd3824a3b4c23d92a4.js": "/portfolio/mern-places/precache-manifest.3f26dfdaa38376cd3824a3b4c23d92a4.js",
+    "precache-manifest.a9219e31c048ec8b91bc59a5f1dcda33.js": "/portfolio/mern-places/precache-manifest.a9219e31c048ec8b91bc59a5f1dcda33.js",
     "service-worker.js": "/portfolio/mern-places/service-worker.js",
     "static/css/3.52153eb1.chunk.css.map": "/portfolio/mern-places/static/css/3.52153eb1.chunk.css.map",
     "static/css/4.64b7851f.chunk.css.map": "/portfolio/mern-places/static/css/4.64b7851f.chunk.css.map",
     "static/css/5.f7e2ce2a.chunk.css.map": "/portfolio/mern-places/static/css/5.f7e2ce2a.chunk.css.map",
     "static/css/6.200f08ba.chunk.css.map": "/portfolio/mern-places/static/css/6.200f08ba.chunk.css.map",
-    "static/css/main.d6b78445.chunk.css.map": "/portfolio/mern-places/static/css/main.d6b78445.chunk.css.map",
+    "static/css/main.ffcc154c.chunk.css.map": "/portfolio/mern-places/static/css/main.ffcc154c.chunk.css.map",
     "static/media/places_logo.svg": "/portfolio/mern-places/static/media/places_logo.c08efe7b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b0dfa6c9.js",
     "static/js/2.3e9d30b6.chunk.js",
-    "static/css/main.d6b78445.chunk.css",
+    "static/css/main.ffcc154c.chunk.css",
     "static/js/main.7287e418.chunk.js"
   ]
 }
