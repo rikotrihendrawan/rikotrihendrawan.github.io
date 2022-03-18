@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/mern-places/static/css/main.02b26ec5.chunk.css",
-    "main.js": "/portfolio/mern-places/static/js/main.76cf2b56.chunk.js",
-    "main.js.map": "/portfolio/mern-places/static/js/main.76cf2b56.chunk.js.map",
+    "main.css": "/portfolio/mern-places/static/css/main.f785db8e.chunk.css",
+    "main.js": "/portfolio/mern-places/static/js/main.345d1fe1.chunk.js",
+    "main.js.map": "/portfolio/mern-places/static/js/main.345d1fe1.chunk.js.map",
     "runtime-main.js": "/portfolio/mern-places/static/js/runtime-main.b0dfa6c9.js",
     "runtime-main.js.map": "/portfolio/mern-places/static/js/runtime-main.b0dfa6c9.js.map",
     "static/js/2.3e9d30b6.chunk.js": "/portfolio/mern-places/static/js/2.3e9d30b6.chunk.js",
@@ -22,19 +22,19 @@
     "static/js/7.83acc776.chunk.js": "/portfolio/mern-places/static/js/7.83acc776.chunk.js",
     "static/js/7.83acc776.chunk.js.map": "/portfolio/mern-places/static/js/7.83acc776.chunk.js.map",
     "index.html": "/portfolio/mern-places/index.html",
-    "precache-manifest.449a4e11a027af2676d27e77a34cd31c.js": "/portfolio/mern-places/precache-manifest.449a4e11a027af2676d27e77a34cd31c.js",
+    "precache-manifest.6da821c760141aa323e57aba14a4524e.js": "/portfolio/mern-places/precache-manifest.6da821c760141aa323e57aba14a4524e.js",
     "service-worker.js": "/portfolio/mern-places/service-worker.js",
     "static/css/3.52153eb1.chunk.css.map": "/portfolio/mern-places/static/css/3.52153eb1.chunk.css.map",
     "static/css/4.64b7851f.chunk.css.map": "/portfolio/mern-places/static/css/4.64b7851f.chunk.css.map",
     "static/css/5.f7e2ce2a.chunk.css.map": "/portfolio/mern-places/static/css/5.f7e2ce2a.chunk.css.map",
     "static/css/6.200f08ba.chunk.css.map": "/portfolio/mern-places/static/css/6.200f08ba.chunk.css.map",
-    "static/css/main.02b26ec5.chunk.css.map": "/portfolio/mern-places/static/css/main.02b26ec5.chunk.css.map",
+    "static/css/main.f785db8e.chunk.css.map": "/portfolio/mern-places/static/css/main.f785db8e.chunk.css.map",
     "static/media/places_logo.svg": "/portfolio/mern-places/static/media/places_logo.c08efe7b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b0dfa6c9.js",
     "static/js/2.3e9d30b6.chunk.js",
-    "static/css/main.02b26ec5.chunk.css",
-    "static/js/main.76cf2b56.chunk.js"
+    "static/css/main.f785db8e.chunk.css",
+    "static/js/main.345d1fe1.chunk.js"
   ]
 }
