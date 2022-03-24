@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7a8e20baef9208276ad0bcbf9c240d7",
+    "revision": "ffca2a35bd85e82c4fadf1efe5bcc9b8",
     "url": "/portfolio/mern-places/index.html"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/mern-places/static/css/5.f7e2ce2a.chunk.css"
   },
   {
-    "revision": "982607ea7e0d03385519",
+    "revision": "309d6ef73acac671ca29",
     "url": "/portfolio/mern-places/static/css/6.200f08ba.chunk.css"
   },
   {
-    "revision": "bf129254427e13c73667",
-    "url": "/portfolio/mern-places/static/css/7.24173542.chunk.css"
+    "revision": "ae5ba2398235690bdef2",
+    "url": "/portfolio/mern-places/static/css/7.3f05e0bd.chunk.css"
   },
   {
-    "revision": "a9928584cf12f10c384d",
-    "url": "/portfolio/mern-places/static/css/main.01fd723d.chunk.css"
+    "revision": "35fa5308f5830db0fd7a",
+    "url": "/portfolio/mern-places/static/css/main.96dfa7a3.chunk.css"
   },
   {
     "revision": "a4a555ee8a8bf2a76bf6",
@@ -44,11 +44,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/mern-places/static/js/5.3b38123d.chunk.js"
   },
   {
-    "revision": "982607ea7e0d03385519",
-    "url": "/portfolio/mern-places/static/js/6.8bcc743b.chunk.js"
+    "revision": "309d6ef73acac671ca29",
+    "url": "/portfolio/mern-places/static/js/6.269935d9.chunk.js"
   },
   {
-    "revision": "bf129254427e13c73667",
+    "revision": "ae5ba2398235690bdef2",
     "url": "/portfolio/mern-places/static/js/7.acace280.chunk.js"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/mern-places/static/js/8.4f149b55.chunk.js"
   },
   {
-    "revision": "a9928584cf12f10c384d",
+    "revision": "35fa5308f5830db0fd7a",
     "url": "/portfolio/mern-places/static/js/main.430bf75d.chunk.js"
   },
   {
-    "revision": "1c80d2c51b7b53b67278",
-    "url": "/portfolio/mern-places/static/js/runtime-main.f9d8449a.js"
+    "revision": "c0ce066a7a827b74236e",
+    "url": "/portfolio/mern-places/static/js/runtime-main.8b9c2635.js"
   },
   {
     "revision": "c08efe7bc0e4c5993e308e4f94be7e78",
