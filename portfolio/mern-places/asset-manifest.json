@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/mern-places/static/css/main.01fd723d.chunk.css",
-    "main.js": "/portfolio/mern-places/static/js/main.d6d92243.chunk.js",
-    "main.js.map": "/portfolio/mern-places/static/js/main.d6d92243.chunk.js.map",
+    "main.js": "/portfolio/mern-places/static/js/main.a6bfce21.chunk.js",
+    "main.js.map": "/portfolio/mern-places/static/js/main.a6bfce21.chunk.js.map",
     "runtime-main.js": "/portfolio/mern-places/static/js/runtime-main.a5105bcf.js",
     "runtime-main.js.map": "/portfolio/mern-places/static/js/runtime-main.a5105bcf.js.map",
     "static/js/2.665d46fa.chunk.js": "/portfolio/mern-places/static/js/2.665d46fa.chunk.js",
@@ -25,7 +25,7 @@
     "static/js/8.4f149b55.chunk.js": "/portfolio/mern-places/static/js/8.4f149b55.chunk.js",
     "static/js/8.4f149b55.chunk.js.map": "/portfolio/mern-places/static/js/8.4f149b55.chunk.js.map",
     "index.html": "/portfolio/mern-places/index.html",
-    "precache-manifest.e4cec6b8e8b56b3aac7700ccbc9fd9ff.js": "/portfolio/mern-places/precache-manifest.e4cec6b8e8b56b3aac7700ccbc9fd9ff.js",
+    "precache-manifest.dc20129090e5ec83bf537927cbb27403.js": "/portfolio/mern-places/precache-manifest.dc20129090e5ec83bf537927cbb27403.js",
     "service-worker.js": "/portfolio/mern-places/service-worker.js",
     "static/css/3.52153eb1.chunk.css.map": "/portfolio/mern-places/static/css/3.52153eb1.chunk.css.map",
     "static/css/4.64b7851f.chunk.css.map": "/portfolio/mern-places/static/css/4.64b7851f.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.a5105bcf.js",
     "static/js/2.665d46fa.chunk.js",
     "static/css/main.01fd723d.chunk.css",
-    "static/js/main.d6d92243.chunk.js"
+    "static/js/main.a6bfce21.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7ff6c8e7eb39e80e6783c520f933eb0",
+    "revision": "67c3a0a63f073475cdb0f8b1ef06686f",
     "url": "/portfolio/mern-places/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/mern-places/static/css/7.24173542.chunk.css"
   },
   {
-    "revision": "5f9f0b151735b8600490",
+    "revision": "c0d97115ae11addfd59a",
     "url": "/portfolio/mern-places/static/css/main.01fd723d.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/mern-places/static/js/8.4f149b55.chunk.js"
   },
   {
-    "revision": "5f9f0b151735b8600490",
-    "url": "/portfolio/mern-places/static/js/main.d6d92243.chunk.js"
+    "revision": "c0d97115ae11addfd59a",
+    "url": "/portfolio/mern-places/static/js/main.a6bfce21.chunk.js"
   },
   {
     "revision": "72b7390fe49750f312d3",
