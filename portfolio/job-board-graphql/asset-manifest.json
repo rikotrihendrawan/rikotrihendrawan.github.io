@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.1dc978aa.chunk.css",
-  "main.js": "/static/js/main.5f6e90f7.chunk.js",
-  "main.js.map": "/static/js/main.5f6e90f7.chunk.js.map",
-  "static/js/1.90fc6e6c.chunk.js": "/static/js/1.90fc6e6c.chunk.js",
-  "static/js/1.90fc6e6c.chunk.js.map": "/static/js/1.90fc6e6c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.1dc978aa.chunk.css.map": "/static/css/main.1dc978aa.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.f65927810c5b8daa80bc6009d2c52b24.js": "/precache-manifest.f65927810c5b8daa80bc6009d2c52b24.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/portfolio/job-board-graphql/static/css/main.1dc978aa.chunk.css",
+  "main.js": "/portfolio/job-board-graphql/static/js/main.5f6e90f7.chunk.js",
+  "main.js.map": "/portfolio/job-board-graphql/static/js/main.5f6e90f7.chunk.js.map",
+  "static/js/1.90fc6e6c.chunk.js": "/portfolio/job-board-graphql/static/js/1.90fc6e6c.chunk.js",
+  "static/js/1.90fc6e6c.chunk.js.map": "/portfolio/job-board-graphql/static/js/1.90fc6e6c.chunk.js.map",
+  "runtime~main.js": "/portfolio/job-board-graphql/static/js/runtime~main.af98b1ab.js",
+  "runtime~main.js.map": "/portfolio/job-board-graphql/static/js/runtime~main.af98b1ab.js.map",
+  "static/css/main.1dc978aa.chunk.css.map": "/portfolio/job-board-graphql/static/css/main.1dc978aa.chunk.css.map",
+  "index.html": "/portfolio/job-board-graphql/index.html",
+  "precache-manifest.da16b21211d351d43be63c2535bf66da.js": "/portfolio/job-board-graphql/precache-manifest.da16b21211d351d43be63c2535bf66da.js",
+  "service-worker.js": "/portfolio/job-board-graphql/service-worker.js"
 }
