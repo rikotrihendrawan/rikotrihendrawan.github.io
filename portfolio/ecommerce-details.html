@@ -46,6 +46,15 @@
 
     <link href="../assets/css/style.css" rel="stylesheet" />
     <style type="text/css">
+      html {
+        height: 100%;
+        overflow: hidden;
+      }
+      @media screen and (max-width: 767px) {
+        html {
+          overflow-y: auto;
+        }
+      }
       ul.simple > li {
         margin: 0 0 5px;
         padding: 0 0 10px;
@@ -70,17 +79,21 @@
         margin-top: 0;
       }
       ::-webkit-scrollbar {
-        color: #fff;
-        background-color: #555;
-        width: 0.5rem;
-        height: 100%;
-        border: 1px solid #999;
+        width: 10px;
+        height: 10px;
+        background-color: #ccc;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #ccc;
+        border-radius: 0;
       }
       ::-webkit-scrollbar-button {
-        border: 1px solid #999;
+        background: #999;
+        border: 1px solid #888;
       }
-      ::-webkit-scrollbar-corner {
-        border: 1px solid red;
+      ::-webkit-scrollbar-track {
+        background: #aaa;
+        box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
       }
       .text-upcase {
         text-transform: uppercase;
@@ -156,12 +169,12 @@
                 <li>
                   <strong>Main Features:</strong>
                   <ul>
-                    <li>User: Sign-in &amp; Sign up</li>
-                    <li>User: Shop &amp; pay online</li>
-                    <li>User: Products listing, orders history listing</li>
-                    <li>Admin: add, edit and delete products</li>
-                    <li>Admin: edit & delete user</li>
-                    <li>Admin: review &amp; mark order as delivered</li>
+                    <li>User: Sign-in, Sign up &amp; Edit own info</li>
+                    <li>User: Shop, Search &amp; Pay online</li>
+                    <li>User: Products listing, Orders history listing, Listing pagination</li>
+                    <li>Admin: Add, Edit and Delete products</li>
+                    <li>Admin: Edit & Delete user</li>
+                    <li>Admin: Review &amp; mark order as delivered</li>
                   </ul>
                 </li>
               </ul>
